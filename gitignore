@@ -1,0 +1,21 @@
+
+# Jupyter/Colab related files
+.ipynb_checkpoints/
+*.ipynb
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Data directories (generated/input)
+data/
+/content/data/
+/content/processed/
+
+# Specific input files mentioned in the notebook
+*.csv
+*.tar
+
+# OS generated files
+.DS_Store
+Thumbs.db
